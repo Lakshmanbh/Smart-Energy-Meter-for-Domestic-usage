@@ -1,5 +1,5 @@
 #define BLYNK_TEMPLATE_ID "********************************"
-#define BLYNK_TEMPLATE_NAME "IoT Energy Meter"
+#define BLYNK_TEMPLATE_NAME "Smart Energy Meter"
 #define BLYNK_PRINT Serial
  
 #include "EmonLib.h"
